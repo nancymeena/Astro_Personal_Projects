@@ -8,4 +8,4 @@
 In this repo, I explore and experiment with various astronomical phenomena. So far I have: <br><br>
     * Mars Launch Window (mars_launch_window.ipynb) <br><br>
     * Visualizing Saturns Rings, Moons and the Roche Limit (saturn-rings.ipynb) <br><br>
-    * Wein's Law, Black Body Radiation and Goldilock's Zone (Solar_radiation.ipynb) <br><br>
+    * Wein's Law, Black Body Radiation and Goldilock's Zone (solar_radiation.ipynb) <br><br>
