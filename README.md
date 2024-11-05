@@ -6,7 +6,7 @@
 </div>
 
 In this repo, I explore and experiment with various astronomical phenomena. So far I have: <br><br>
-    * Mars Launch Window (mars_launch_window.ipynb) <br><br>
-    * Visualizing Saturns Rings, Moons and the Roche Limit (saturn-rings.ipynb) <br><br>
-    * Wein's Law, Black Body Radiation and Goldilock's Zone (solar_radiation.ipynb) <br><br>
-    * Stellar Fusion: Atomic Mass Unit conversion, Mass Excess, Mass Defect, Binding Energy (Stellar_Fusion.ipynb) <br><br>
+  1) Mars Launch Window (mars_launch_window.ipynb) <br><br>
+  2) Visualizing Saturns Rings, Moons and the Roche Limit (saturn-rings.ipynb) <br><br>
+  3) Wein's Law, Black Body Radiation and Goldilock's Zone (solar_radiation.ipynb) <br><br>
+  4) Stellar Fusion: Atomic Mass Unit conversion, Mass Excess, Mass Defect, Binding Energy (Stellar_Fusion.ipynb) <br><br>
